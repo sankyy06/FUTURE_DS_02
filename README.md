@@ -1,4 +1,5 @@
-FUTURE_DS_02 - Social Media Campaign Performance Tracker - Task 2 (Future Interns)
+FUTURE_DS_02 -
+Social Media Campaign Performance Tracker - Task 2 (Future Interns)
 This project was completed as part of the Data Science & Analytics Internship at Future Interns.
 
 📊 Task 2: Social Media Campaign Performance Tracker
